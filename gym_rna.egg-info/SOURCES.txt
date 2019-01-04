@@ -1,6 +1,0 @@
-README.md
-gym_rna.egg-info/PKG-INFO
-gym_rna.egg-info/SOURCES.txt
-gym_rna.egg-info/dependency_links.txt
-gym_rna.egg-info/requires.txt
-gym_rna.egg-info/top_level.txt
