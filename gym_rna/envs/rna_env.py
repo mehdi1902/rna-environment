@@ -256,7 +256,7 @@ if __name__ == '__main__':
 	# seq = 'CCCCCCAAAAAAGGGGGGUUUUUU'
 	seq = generate_random_seq(50, .5)
 	seq = 'AAAAUUAUAGCAGUCAAUGCGUCGCAUCACUCCGAAUUUCCCGCACCGUG'
-	print seq
+	print(seq)
 	N = len(seq)
 	env = Environment(seq)
 	# structure = env.generate_random_structure(2)
